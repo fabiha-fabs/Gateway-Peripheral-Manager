@@ -5,7 +5,7 @@
           
         </v-col>
         <v-col cols="12" md="4"> 
-         <h1>Rest API Project</h1>
+         <h1>Gateway Peripheral Manager</h1>
           <h3>Front End with VUE js</h3>
           <v-divider></v-divider><br />
           </v-col>
